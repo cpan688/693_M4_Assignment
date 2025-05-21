@@ -1,4 +1,4 @@
-import EmployeeList from './EmployeeList.jsx'
+import EmployeeList from './EmployeeList.js'
 
 ReactDOM.render(
     <React.StrictMode>
